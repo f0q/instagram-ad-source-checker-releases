@@ -1,11 +1,14 @@
 # Проверка рекламы — выпуски
 
-Готовые версии расширения для Chrome. Скачивайте архив из раздела [Releases](https://github.com/f0q/instagram-ad-source-checker-releases/releases/latest).
+## ⬇️ [Скачать последнюю версию расширения](https://github.com/f0q/instagram-ad-source-checker-releases/releases/latest/download/instagram-ad-source-checker.zip)
+
+> ⚠️ Не используйте зелёную кнопку «Code → Download ZIP» — в том архиве нет расширения, только этот текст.
+> Нужна ссылка выше. Что изменилось в версиях — в разделе [Releases](https://github.com/f0q/instagram-ad-source-checker-releases/releases).
 
 ## Первая установка
-1. Скачайте `instagram-ad-source-checker-X.Y.Z.zip` из последнего выпуска и распакуйте в постоянную папку.
+1. Скачайте архив по ссылке выше и распакуйте его в постоянную папку (не в «Загрузки», откуда файлы часто удаляют).
 2. Откройте `chrome://extensions`, включите «Режим разработчика» (справа вверху).
-3. Нажмите «Загрузить распакованное расширение» и выберите папку `instagram-ad-source-checker`.
+3. Нажмите «Загрузить распакованное расширение» и выберите папку **`instagram-ad-source-checker`** — ту, внутри которой лежит файл `manifest.json`.
 4. Откройте расширение → ⚙️ Настройки и вставьте свой ключ HikerAPI.
 
 ## Обновление
